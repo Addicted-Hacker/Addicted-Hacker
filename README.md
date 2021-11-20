@@ -1,4 +1,4 @@
-### Hi there 👋
+### Addicted Hacker 👨‍💻
 
 <!--
 **Addicted-Hacker/Addicted-Hacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
